@@ -1,0 +1,28 @@
+asdasd,asdasd,asdasd,144414
+username1, mypassword123, Nicosia, 99123456
+username2, abcd9876, Limassol, 99654321
+username3, passw0rd, Larnaca, 96789012
+username4, ilovecats, Nicosia, 97123456
+username5, qwerty123, Limassol, 96654321
+username6, letmein321, Limassol, 99345678
+username7, p@ssword, Nicosia, 99876543
+username8, Pa$$word123, Limassol, 97234567
+username9, 123456789, Larnaca, 99432109
+username10, mypass, Nicosia, 99567890
+username11, abcd1234, Larnaca, 96789012
+username12, ilovepizza, Limassol, 9745678
+username13, qwertyuiop, Nicosia, 99210987
+username14, letmein123, Larnaca, 99876543
+username15, password1, Nicosia, 9734567
+username16, Pa$$word456, Limassol, 99432109
+username17, 1234abcd, Nicosia, 99567890
+username18, myp@ssword, Limassol, 96789012
+username19, abc12345, Larnaca, 97345678
+username20, ilovemusic, Nicosia, 99210987
+enadio,triatessera,kapou,100
+sss,sss,sss,111
+s,a,s,e
+s,s,s,s
+test333f,test2,test,test
+finaltest,finaltest,finaltest,finaltest
+buildtest,buildtest,test,11
